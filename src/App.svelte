@@ -329,7 +329,7 @@ function filterInterleavedResults() {
           <h2 class="text-xl font-semibold">AI Overview</h2>
         </div>
         <!-- <h2 class="text-xl font-semibold">AI Overview</h2> -->
-        <p>Lupus is a chronic condition that can be managed with medication and lifestyle changes.</p>
+        <p>Endometriosis can be managed with medication and lifestyle changes.</p>
         
         <!-- Hidden content (expands when button is clicked) -->
         {#if showMore}
